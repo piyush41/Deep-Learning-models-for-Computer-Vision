@@ -2,4 +2,4 @@
 
 All the computer Vision Models have been put in this directory.
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+[I'm a relative reference to a repository file](./Node-Classification)
