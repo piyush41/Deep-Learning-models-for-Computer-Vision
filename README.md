@@ -4,7 +4,8 @@ All the computer Vision Models have been put in this directory.
 
 1.[PlantDetector](https://github.com/piyush41/Plant_Detector-for-Global-Wheat-Detection) :- The state of art transformers techniques were used for object detection problems in the “DETR: End-to-End Object Detection with Transformers” paper that is published by Facebook’s research team. This algorithm has many advantages over classical object recognition techniques.
 
-2.[Image Captioning](https://github.com/piyush41/Image-Captioning-with-attention) :- mplemented Encoder-Decoder model where Encoder uses CNN(ResNet) and Decoder is composed
+2.[Image Captioning](https://github.com/piyush41/Image-Captioning-with-attention) :- Implemented Encoder-Decoder model where Encoder uses CNN(ResNet) and Decoder is composed
 of LSTM. Applied Attention mechanisms to focus on most relevant features and achieve the BLEU-4 score of 0.21 .
 
-3. [Image Classification]
+3. [Generative models](https://github.com/piyush41/Face-Generator---Generating-Artificial-Faces-): Generate new celebrities useing Deep Convolutional Generative Adversarial Networks
+(DCGAN) which uses convolutional and convolutional-transpose layers in the Generator and Discriminator.
