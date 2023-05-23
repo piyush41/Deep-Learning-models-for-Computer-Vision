@@ -7,5 +7,5 @@ All the computer Vision Models have been put in this directory.
 2.[Image Captioning](https://github.com/piyush41/Image-Captioning-with-attention) :- Implemented Encoder-Decoder model where Encoder uses CNN(ResNet) and Decoder is composed
 of LSTM. Applied Attention mechanisms to focus on most relevant features and achieve the BLEU-4 score of 0.21 .
 
-3. [Generative models](https://github.com/piyush41/Face-Generator---Generating-Artificial-Faces-): Generate new celebrities useing Deep Convolutional Generative Adversarial Networks
+3.[Generative models](https://github.com/piyush41/Face-Generator---Generating-Artificial-Faces-): Generate new celebrities useing Deep Convolutional Generative Adversarial Networks
 (DCGAN) which uses convolutional and convolutional-transpose layers in the Generator and Discriminator.
